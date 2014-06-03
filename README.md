@@ -1,4 +1,0 @@
-konfido
-=======
-
-Konfido Consultancy
