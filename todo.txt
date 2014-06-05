@@ -1,0 +1,14 @@
+I want engineering.html, medical.html, management.html content as dynamic
+
+engineering.html
+===============
+admin can add university and under the university he can add colleges for each college there are branches and fee structures, as you can see in demo content
+
+medical.html and management.html
+==============
+For medical and management there were no universities, they have only colleges and courses, seats and fees
+
+Contact.html
+==============
+
+Try to add a function to send emails using contact form
